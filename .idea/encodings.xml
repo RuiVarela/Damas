@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Pacotes/Erros/erros.H" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/Erros/erros_impl.H" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/IPC++/ipc.H" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/IPC++/mensageiro.H" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/IPC++/mensageiro.cpp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/IPC++/mensageiro_impl.H" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/Slang++/ecra.H" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/Slang++/ecra.cpp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/Slang++/menu.H" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/Slang++/menu_impl.H" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/Slang++/slang.H" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/Slang++/teclado.H" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/Slang++/teclado.cpp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Pacotes/Slang++/teclado_impl.H" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/damas_entrega_final.cpp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/damas_solitarias.cpp" charset="ISO-8859-1" />
+  </component>
+</project>
