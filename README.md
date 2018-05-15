@@ -1,5 +1,7 @@
 # Damas
 
+![Preview](https://raw.githubusercontent.com/RuiVarela/Damas/master/preview.png)
+
 [Introdução à Programação](http://home.iscte-iul.pt/~mms/courses/ip/2002-2003/)   
 ISCTE, 2002/2003  
 Trabalho Final
@@ -32,3 +34,6 @@ Sendo que é a função Tabuleiro::simulacaoDePercurso(..) é mais complexa do j
 Com este código é possível jogar contra outra máquina (embora dividindo processos), através de ipc++.   
 O protocolo é muito simples, de um lado é criado um vector de posições relativas à jogada, esse vector é posteriormente enviado.   
 Este protocolo envia apenas a posições por onde a peça “em marcha” efectivamente passou. Do outro lado o vector é recebido construído recebendo (linha/coluna) referentas ás posições recebidas, depois estas posições são tratadas e executadas 
+
+
+![Preview](https://raw.githubusercontent.com/RuiVarela/Damas/master/preview.gif)
